@@ -16,5 +16,11 @@
             "Price": "Free",
             "Restrictions": "None"
         }
+    },
+    "assets":{
+            "logos" : {
+                "200px": "./public/images/seo-links-logo-200.jpg",
+                "132px": "./public/images/seo-links-logo-132.jpg"
+            }
     }
 }

@@ -1,6 +1,6 @@
 {
     "main": "public/javascripts/cf_seolinks.js",
-    "name": "seolinks",
+    "name": "corkerlinks",
     "category": "search engine optimization",
     "description": "The application identifies external links on your page and morph it with `target` and `rel` attributes so it will be SEO friendly.",
     "version": "1.0.1",

@@ -1,6 +1,6 @@
-CloudFlare.define( "seolinks",
+CloudFlare.define( "corkerlinks",
 
-    [ "seolinks/config", "cloudflare/jquery1.7" ],
+    [ "corkerlinks/config", "cloudflare/jquery1.7" ],
 
     function( config, $ )
     {

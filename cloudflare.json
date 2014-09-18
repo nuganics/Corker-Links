@@ -19,8 +19,8 @@
     },
     "assets":{
             "logos" : {
-                "200px": "./public/images/seo-links-logo-200.jpg",
-                "132px": "./public/images/seo-links-logo-132.jpg"
+                "200px": "./public/images/corker-links-logo-200.jpg",
+                "132px": "./public/images/corker-links-logo-132.jpg"
             }
     }
 }
